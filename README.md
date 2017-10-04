@@ -1,1 +1,1 @@
-# ml_classification
+# Coursera-Machine-Learning-Classification
